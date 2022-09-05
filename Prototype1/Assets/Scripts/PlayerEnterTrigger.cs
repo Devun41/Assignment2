@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Prototype 1
+ * Adds to score if player object passes trigger zones
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

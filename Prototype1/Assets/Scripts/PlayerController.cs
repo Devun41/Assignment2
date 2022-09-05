@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Prototype 1
+ * Adds player object movement based on key input
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

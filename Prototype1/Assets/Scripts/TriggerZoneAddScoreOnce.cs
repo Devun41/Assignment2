@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Devun Schneider
+ * Prototype 1
+ * Updated "PlayerEnterTrigger"
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
